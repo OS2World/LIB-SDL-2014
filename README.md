@@ -21,4 +21,4 @@ AUTHORS
 
 LINKS
 ===============
-* 
+* ftp://digi.os2.snc.ru/pub/SDL/
